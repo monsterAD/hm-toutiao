@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    app
-      <el-button type="warning">警告按钮</el-button>
+    <router-view></router-view>
   </div>
 </template>
 
