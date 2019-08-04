@@ -31,8 +31,8 @@ export default {
     }
     return {
       form: {
-        mobile: '',
-        code: ''
+        mobile: '13911111111',
+        code: '246810'
       },
       formRules: {
         mobile: [
@@ -86,6 +86,5 @@ export default {
      width: 200px;
      display: block;
      margin: 0 auto 20px;
-
  }
 </style>
